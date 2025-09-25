@@ -52,7 +52,7 @@
 		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of short fiction by Charles Beaumont.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/charles-beaumont"&gt;Charles Beaumont&lt;/a&gt; was an American author and screenwriter. Besides publishing a considerate amount of short stories, Beaumont is best known for his work on movies and television shows, especially the &lt;i&gt;The Twilight Zone&lt;/i&gt;, in which some of his short stories were adapted into episodes, often by himself.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/charles-beaumont"&gt;Charles Beaumont&lt;/a&gt; was an American author and screenwriter. Besides publishing a considerable number of short stories, Beaumont is best known for his work on movies and television shows, especially the &lt;i&gt;The Twilight Zone&lt;/i&gt;, in which some of his short stories were adapted into episodes, often by himself.&lt;/p&gt;
 			&lt;p&gt;Most of his work is still under copyright; the few short stories believed to be in the U.S. public domain are collected in this Standard Ebooks edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
