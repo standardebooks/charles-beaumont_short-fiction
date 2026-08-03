@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/charles-beaumont/short-fiction</dc:identifier>
 		<dc:date>2025-09-25T00:28:38Z</dc:date>
@@ -51,11 +51,11 @@
 		<meta property="schema:genre">Science Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of short fiction by Charles Beaumont.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of short fiction by Charles Beaumont.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/charles-beaumont"&gt;Charles Beaumont&lt;/a&gt; was an American author and screenwriter. Besides publishing a considerable number of short stories, Beaumont is best known for his work on movies and television shows, especially the &lt;i&gt;The Twilight Zone&lt;/i&gt;, in which some of his short stories were adapted into episodes, often by himself.&lt;/p&gt;
 			&lt;p&gt;Most of his work is still under copyright; the few short stories believed to be in the U.S. public domain are collected in this Standard Ebooks edition.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<!--Traumerei-->
 		<dc:source>https://www.gutenberg.org/ebooks/67341</dc:source>
