@@ -32,10 +32,10 @@
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Short stories</dc:subject>
-		<dc:subject id="subject-3">Identity (Psychology) -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Teenage girls -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Executions and executioners -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Dreams -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Identity (Psychology)--Fiction</dc:subject>
+		<dc:subject id="subject-4">Teenage girls--Fiction</dc:subject>
+		<dc:subject id="subject-5">Executions and executioners--Fiction</dc:subject>
+		<dc:subject id="subject-6">Dreams--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
